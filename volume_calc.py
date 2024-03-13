@@ -9,3 +9,5 @@ DecVol = Decimal(str(x)) * Decimal(str(y)) * Decimal(str(z))
 
 print("박스의 넓이는(by Float):" + str(Vol) + "입니다.")
 print("박스의 넓이는(by Decimal):" + str(DecVol) + "입니다.")
+print("volume_calc2.py도 확인해주세요")
+
